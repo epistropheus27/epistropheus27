@@ -6,7 +6,7 @@ the many benefits programming provides.
 
 - 💞️ I’m looking to collaborate on establishing a multi-omic dynamic database for plant secondary metabolites.
 - 📫 How to reach me :
-janosturani@protonmail.com
+janosturani@protonmail.ch
 janosturani@gmail.com
 
 <!---
